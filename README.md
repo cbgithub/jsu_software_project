@@ -22,4 +22,5 @@ I assisted with writing some unit test as well as getting all the acceptance tes
     <li>How to set project up in github available <a href="http://tinyurl.com/githubsetup">here </a>.</li>
   </ul>
 #Features
-<h3>Help Command</h3>
+<h3>1.)Help Command</h3>
+
