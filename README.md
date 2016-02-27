@@ -117,4 +117,4 @@ ArgumentParser can either be cloned or extracted from the zip file. After gettin
 <br>![screen shot 2016-02-26 at 8 22 23 pm](https://cloud.githubusercontent.com/assets/8529024/13370200/cb006d64-dcc6-11e5-846d-8a46fc2659ce.png)</br>
 
 <h1>Demos </h1>
-Demos are available in the Demos folder. There are two demos inside the folder. The first is VolumeCalculator which will show arguments can be called through shorthand and longhand method. The last demo is BankAccount which will show arguments can be written to and read from an XML file.
+Demos are available in the Demos folder. There are two demos inside the folder. The first is VolumeCalculator which will show arguments can be called through shorthand method and longhand method. The last demo is BankAccount which will show arguments can be written to and read from an XML file.
