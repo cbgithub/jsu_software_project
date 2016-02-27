@@ -111,4 +111,6 @@ I assisted with writing some unit test as well as getting all the acceptance tes
     </li>
   </ul>
 <h2>
-
+<h2>Installation </h2>
+ArgumentParser can either be cloned or extracted from the zip file. After getting the file, open up the command line and move to where the gradle.build file is and then execute the command gradle build. After doing this, this screen will appear below. This screen means the demos are ready to run.
+<br> </br>
